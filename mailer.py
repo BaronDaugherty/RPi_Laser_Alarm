@@ -1,5 +1,6 @@
 #@author: Baron Daugherty
 #mailer.py
+#you really shouldn't use this... it's 100% insecure. I'll get to replacing it someday... maybe.
 #mailer can be imported and used for its mail functions
 #or as a standalone script for mail with attachments
 #uses GMAIL but you can modify mailServer variable below to support whatever service you choose
